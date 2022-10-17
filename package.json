@@ -1,0 +1,19 @@
+{
+  "name": "js-question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.9.0",
+    "raw-loader": "^4.0.0"
+  },
+  "dependencies": {
+    "jest-cli": "^25.1.0"
+  }
+}
